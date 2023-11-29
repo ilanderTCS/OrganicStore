@@ -1,0 +1,14 @@
+.bg{
+    background: rgba(255,255,255,0.5);
+}
+
+#demo i{
+    color:red
+}
+#services img{
+    height: 100px;
+    width: 100px;
+}
+footer{
+    background: #06121e;
+}
